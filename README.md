@@ -3,6 +3,6 @@
 
 python写的
 
-main.py为主文件
+game.py为主文件
 
 是个萌新，求大佬指教
