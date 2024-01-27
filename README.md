@@ -1,7 +1,7 @@
 # flappybird
-本人自己写的一个小游戏:flappybird
+本人自己写的一个小游戏:flappybird v1.0
 
-python写的
+以后还会持续更新
 
 game.py为主文件
 
